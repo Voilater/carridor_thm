@@ -18,8 +18,8 @@ so another way i writed a script to automate the process so run then code then y
 
 
 <code>
-  git clone https://github.com/Voilater/carridor_thm
-  cd carridor_thm
-  chmod 777 exploit.py
+  git clone https://github.com/Voilater/carridor_thm &&
+  cd carridor_thm &&
+  chmod 777 exploit.py &&
   ./exploit.py  
 </code>
