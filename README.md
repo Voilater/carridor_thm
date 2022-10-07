@@ -17,7 +17,7 @@ manual exploit :-
 so another way i writed a script to automate the process so run then code then you got a flag
 
 
-<ocde>
+<code>
   git clone https://github.com/Voilater/carridor_thm
   cd carridor_thm
   chmod 777 exploit.py
